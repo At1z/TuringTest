@@ -90,7 +90,8 @@ Aplikacja będzie hostowana w sposób zapewniający stabilność oraz dostępno�
 Zarówno React, jak i backend komunikujący się z API OpenAI będą dostępne zdalnie, co pozwoli użytkownikom łatwo łączyć się z aplikacją.\
 Aplikacja będzię zaprojektowana tak, by można ją skalować w zależności od liczby użytkowników oraz ilości jednoczesnych połączeń z OpenAI API.
 
-![image](uploads/71827bdf55dbb1e5986a6cdc6a1c5e18/image.png)
+![image](https://github.com/user-attachments/assets/433501b7-14e5-4879-9c47-30f436af7918)
+
 
 # Analiza wykresu wyników testu Turinga
 
@@ -116,7 +117,8 @@ Ten wykres przedstawia wyniki testu Turinga dla różnych „świadków” – w
 
 ### Na czym polegał ten test?
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/8d779ad136bbbfbbfb0e57fcd70f7ca7/image.png)
+![image](https://github.com/user-attachments/assets/e556b2b0-3d9c-463d-b5c8-9ff2029ae039)
+
 
 Test polega na tym, że człowiek (sędzia) prowadzi rozmowę w formie tekstowej z dwiema stronami – jedną maszyną, drugą człowiekiem. Jeśli sędzia nie jest w stanie rozpoznać, która z nich jest maszyną, to maszyna uznawana jest za przechodzącą test. Celem testu nie jest jednak ocenianie, czy maszyna osiągnęła poziom inteligencji przeciętnego człowieka, ale raczej sprawdzenie, czy może naśladować ludzkie zachowanie w rozmowie.
 
@@ -124,27 +126,29 @@ Test Turinga nie jest idealny, dlatego powstały różne warianty, takie jak CAP
 
 ### Wcześniejsze podejścia do testu Turinga:
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/8f6e5441138b105bd3e530ba873c05fa/image.png)
+![image](https://github.com/user-attachments/assets/f598b38c-ea8b-4f8c-a1e2-ae6818ef4130)
+
 
 * **ELIZA (1966)** – Pierwsze próby symulacji dialogu. ELIZA, stworzona przez Josepha Weizenbauma, wykorzystywała dopasowanie słów kluczowych i powtarzanie pytań, aby naśladować psychoterapeutę. Chociaż odpowiedzi nie miały głębszego znaczenia, niektórzy użytkownicy uwierzyli, że rozmawiają z „myślącą” maszyną. Był to pierwszy przypadek, kiedy AI zaczęła imitować ludzki sposób komunikacji, mimo że oparcie na prostym zbiorze reguł miało swoje ograniczenia.
 * **Parry (1972)** – Symulacja osób z zaburzeniami. Stworzony przez Kennetha Colby'ego, Parry miał imitować osobę z paranoją, stosując heurystyki i wzorce odpowiedzi. Osiągnął realizm na tyle wysoki, że niektórzy specjaliści uznali jego wypowiedzi za nieodróżnialne od osób chorych. Pokazało to, że nawet proste programy mogą naśladować pewne aspekty ludzkiej psychiki, gdy koncentrują się na ograniczonej tematyce.
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/8355fa0458830b5758c016a4d6653592/image.png)
-
 * **Loebner Prize (od 1991)** – Konkurs na realistyczne chatboty. Inspirowany testem Turinga konkurs Loebnera zachęcał twórców do rozwoju zaawansowanych chatbotów, jak A.L.I.C.E., które opierały się na bazach wiedzy i regułach językowych. Choć chatboty te były coraz bardziej zaawansowane, ich zrozumienie języka nadal było ograniczone, co sprawiało, że były bliższe manipulacji tekstem niż rzeczywistej inteligencji.
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/7d879399c70c11c7f4ace8f5bccf18f2/image.png)
+![image](https://github.com/user-attachments/assets/2e8e206a-be2a-473b-864d-4d6a6397c0f1)
+
 
 * **Cleverbot (1997)** – Cleverbot, stworzony przez Rollo Carpentera, uczył się na podstawie milionów interakcji z ludźmi. Dzięki temu próbował prowadzić realistyczne rozmowy i podejść do testu Turinga. W przeciwieństwie do wcześniejszych botów Cleverbot nie korzystał ze stałych wzorców, lecz adaptował swoje odpowiedzi, bazując na obszernej bazie dialogów, co przybliżało go do testu Turinga.
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/c8e57d173a286fc35a44fae5160a4427/image.png)
+![image](https://github.com/user-attachments/assets/94d1d096-f0b7-40c8-8d0c-e991d507bd72)
+
 
 * **Eugene Goostman (2014)** – Próba „przejścia” testu Turinga. Stworzony przez Vladimira Veselova i Eugene'a Demchenko program Eugene Goostman udawał 13-letniego chłopca z Ukrainy, co pozwoliło mu zamaskować swoje braki w języku i wiedzy ogólnej. W 2014 roku przekonał 33% sędziów, że jest człowiekiem, co pokazuje, że odpowiednia stylizacja może pomóc AI w bardziej realistycznym naśladowaniu rozmowy.
 * **Modele językowe oparte na deep learningu – GPT-3 i GPT-4 (2020, 2023)** – Ogromny skok jakościowy. Modele te, oparte na architekturze transformera, umożliwiają AI prowadzenie złożonych i spójnych rozmów, choć nadal bez pełnego zrozumienia kontekstu. Dzięki miliardom danych tekstowych, takie modele jak GPT-3 i GPT-4 zbliżyły AI do realistycznego naśladowania komunikacji, dając użytkownikom poczucie rozmowy z prawdziwą osobą.
 
 ### Co dalej?
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/be505b9b374e92aaefcd99021b1a0df2/image.png) **AGI i hybrydowe podejścia do rozumienia kontekstu** – Najnowsze koncepcje mają na celu przezwyciężenie ograniczeń klasycznych modeli językowych, obejmując:
+![image](https://github.com/user-attachments/assets/59bbbbc6-b676-4efd-b9c8-bca5796a3ffe)
+ **AGI i hybrydowe podejścia do rozumienia kontekstu** – Najnowsze koncepcje mają na celu przezwyciężenie ograniczeń klasycznych modeli językowych, obejmując:
 
 1. **Modele multimodalne i wielofunkcyjne**
    * GPT-4 Turbo i Gemini od OpenAI i Google DeepMind analizują tekst, obraz, a nawet wideo jednocześnie, co wspiera bardziej kompleksowe zrozumienie.
@@ -167,7 +171,11 @@ Rozwój w tych obszarach może przybliżyć AI do ogólnej inteligencji (AGI), c
 
 Poniżej znajdują się zrzuty ekranu przedstawiające aktualny wygląd aplikacji:
 
-![Widok aplikacji 1](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/c9d2e54e4fc3c737da6afa4afea8e094/image.png){width="1410" height="710"} ![Widok aplikacji 2](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/6516dc9f1dfb6f5ba562c8c3eb8b5449/image.png){width="1410" height="710"} ![Widok aplikacji 3](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/4e5909251d74343477b166f4c1e789d5/image.png){width="1410" height="710"} ![Widok aplikacji 4](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/f97768e08b113d4178b32f4b5157d6f7/image.png){width="1410" height="710"} ![Widok aplikacji 5](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/49a535101fd557cd7b522dc271bc9f24/image.png){width="1410" height="710"}
+![Widok aplikacji 1](https://github.com/user-attachments/assets/bbb0cf89-7e71-474b-ac55-a75d53b87b8b){width="1410" height="710"} 
+![Widok aplikacji 2](https://github.com/user-attachments/assets/5cb6ba17-8c5f-4bcb-a18b-f5be536875ee){width="1410" height="710"} 
+![Widok aplikacji 3](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/4e5909251d74343477b166f4c1e789d5/image.png){width="1410" height="710"} 
+![Widok aplikacji 4](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/f97768e08b113d4178b32f4b5157d6f7/image.png){width="1410" height="710"} 
+![Widok aplikacji 5](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/49a535101fd557cd7b522dc271bc9f24/image.png){width="1410" height="710"}
 
 ### Repozytorium projektu dostępne jest na [GitHubie](https://github.com/SzupanBurliga/TuringTest).
 
