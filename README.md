@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/69c3f8f4-0ea9-48a9-86b1-c61551cde1d5)# AreYouHuman?
-![image](https://github.com/user-attachments/assets/e6096644-4141-4afc-98fb-88edaf4f668a)
-
 An interactive web application where users participate in a live Turing test. Chat with someone for two minutes and decide: was it a human or an AI? 🤔💬🧠 You have a 50% chance of connecting with a real person and a 50% chance of talking to AI. Do you think you can tell the difference?
 ___
 
