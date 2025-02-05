@@ -21,3 +21,5 @@ ___
 ### Seting nick
 ![image](https://github.com/user-attachments/assets/fc126601-2c99-42cd-9271-293beff17c7c)
 
+### Chat example
+![image](https://github.com/user-attachments/assets/15d84bb1-e9e6-451f-b6c9-5166b9cfd91d)
