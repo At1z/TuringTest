@@ -18,6 +18,6 @@ ___
 ### Waiting for chat to open
 ![image](https://github.com/user-attachments/assets/408e98e9-07b7-4f66-acb6-37a1924f37a6)
 
-### Seeting tour name
+### Seting nick
 ![image](https://github.com/user-attachments/assets/fc126601-2c99-42cd-9271-293beff17c7c)
 
