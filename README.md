@@ -1,4 +1,4 @@
-# AreYouHuman?
+![image](https://github.com/user-attachments/assets/69c3f8f4-0ea9-48a9-86b1-c61551cde1d5)# AreYouHuman?
 ![image](https://github.com/user-attachments/assets/e6096644-4141-4afc-98fb-88edaf4f668a)
 
 An interactive web application where users participate in a live Turing test. Chat with someone for two minutes and decide: was it a human or an AI? 🤔💬🧠 You have a 50% chance of connecting with a real person and a 50% chance of talking to AI. Do you think you can tell the difference?
@@ -171,11 +171,12 @@ Rozwój w tych obszarach może przybliżyć AI do ogólnej inteligencji (AGI), c
 
 Poniżej znajdują się zrzuty ekranu przedstawiające aktualny wygląd aplikacji:
 
-![Widok aplikacji 1](https://github.com/user-attachments/assets/bbb0cf89-7e71-474b-ac55-a75d53b87b8b){width="1410" height="710"} 
-![Widok aplikacji 2](https://github.com/user-attachments/assets/5cb6ba17-8c5f-4bcb-a18b-f5be536875ee){width="1410" height="710"} 
-![Widok aplikacji 3](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/4e5909251d74343477b166f4c1e789d5/image.png){width="1410" height="710"} 
-![Widok aplikacji 4](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/f97768e08b113d4178b32f4b5157d6f7/image.png){width="1410" height="710"} 
-![Widok aplikacji 5](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/49a535101fd557cd7b522dc271bc9f24/image.png){width="1410" height="710"}
+![Widok aplikacji 1](https://github.com/user-attachments/assets/bbb0cf89-7e71-474b-ac55-a75d53b87b8b)
+![Widok aplikacji 2](https://github.com/user-attachments/assets/5cb6ba17-8c5f-4bcb-a18b-f5be536875ee)
+![Widok aplikacji 3](https://github.com/user-attachments/assets/7b656341-4794-4ee4-a831-b5182c1170f3)
+![Widok aplikacji 4](https://github.com/user-attachments/assets/f56801a0-c85b-440b-b33f-df257b7e4119)
+
+![Widok aplikacji 5](https://github.com/user-attachments/assets/73c206a5-2bdd-4434-a632-921822bc4aef)
 
 ### Repozytorium projektu dostępne jest na [GitHubie](https://github.com/SzupanBurliga/TuringTest).
 
@@ -187,7 +188,8 @@ Poniżej znajdują się zrzuty ekranu przedstawiające aktualny wygląd aplikacj
 
 # Historia Testu Turinga: Początki Sztucznej Inteligencji
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/8e17e4b9246250e79e012de3ab82f474/image.png)
+![image](https://github.com/user-attachments/assets/2375666b-c10d-408a-a2c2-640011f31a19)
+
 
 Alan Turing przedstawił swoją koncepcję testu w czasach, gdy komputery dopiero zaczynały się rozwijać i były postrzegane bardziej jako narzędzia obliczeniowe niż coś, co może przypominać inteligencję. W latach 40. i 50. XX wieku nie było jeszcze mowy o sztucznej inteligencji w dzisiejszym rozumieniu tego terminu, jednak Turing dostrzegał potencjał maszyn do symulowania procesów myślowych.
 
@@ -307,51 +309,50 @@ W miarę rozwoju technologii oraz komputerów pojawiły się nowe wersje i inter
 
 # Backend:
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/3ed66a563bc2e9c5cb270d5c3c10781d/image.png){width="1440" height="810"} ![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/0a613c9caf99bcc7fc60fca68c1236d6/image.png){width="1440" height="810"}
+![image](https://github.com/user-attachments/assets/16485a53-c054-46aa-b3e7-b274ab070531)
+
 
 # Przydzielanie losowych pokoi z użytkownikiem lub z modelem (szanse 50/50)
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/431469aa12ad37c55cb3332318074181/image.png){width="499" height="93"}
+![image](https://github.com/user-attachments/assets/71fda52b-b1f6-4771-8592-2f1a4d557179)
+
 
 ## Rozmowa z modelem - grok-beta
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/9764cdf350d6bf4c41b10f9d258637eb/image.png){width="967" height="649"}
-
-# Lista pokoi, które są przydzielane (do połowy pokoi jest przypisany model)
-
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/5fcd759c9500083066b567dad6220570/image.png){width="317" height="133"} ![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/a115c2ab6db9a39bce8124be1244ea6d/image.png){width="339" height="50"}
-
-Losowanie nicku dla modelu oraz czasu jak szybko odpowiada ![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/d7162484cbda3a9189be5303e69bca34/image.png){width="477" height="52"}
-
-## Przetłumaczona aplikacja
-
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/7d3258e7844ae78142a7ce0b2e377f90/image.png){width="917" height="357"} ![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/706e95ad8fc3a1d9da33b3068ce11b24/image.png){width="1057" height="509"} ![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/7372237e4f9f64ef0f140f5d4c2fc4d6/image.png){width="1290" height="679"}
+![image](https://github.com/user-attachments/assets/8a334598-708d-4653-9291-2463419f186c)
 
 ## Dodany panel logowania
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/bcdc26bc1b8d686016fabf35ff055d8f/image.png){width="547" height="444"}
+![image](https://github.com/user-attachments/assets/a91ee8a6-b1ba-4114-9870-fe628b83806e)
+
 
 ## Postawiony hosting na AWS
 
-![obraz](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/d05604f5080a38bf34feb8d844421016/obraz.png)
+![image](https://github.com/user-attachments/assets/e64c3d71-551b-4b88-b6d9-6d2a39d7571c)
 
-![image](uploads/4e1f689a73b7808f362e7b854071eab7/image.png)
 
-![image](uploads/fe892b17844006b693262fe158b9fbf1/image.png)
+![image](https://github.com/user-attachments/assets/8333b2ac-1097-4e36-acd8-705505e5c06d)
 
-![image](uploads/0b8fe83f0983de91e76790e15565a66d/image.png)
+
+![image](https://github.com/user-attachments/assets/9413ec26-2845-4f40-9558-d24e916fba9b)
+
+
+![image](https://github.com/user-attachments/assets/7ecd2336-77de-44e2-8b0c-a7e9570610f1)
+
 
 ## Dodana poczekalnia, która wpuszcza do testu tylko o wyznaczonej godzinie
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/d80e59ba271f13733944062a2ef1d635/image.png){width="522" height="349"}
+![image](https://github.com/user-attachments/assets/f3ef8a3e-5eb3-4770-a5a1-239a27d051fd)
+
 
 ### po upływie minuty od wyznaczonej godziny, poczekalnia nie pozwala dołączyć
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/ddf09ed657bb9a11875d6544379f37c0/image.png){width="551" height="343"}
+![image](https://github.com/user-attachments/assets/d20c8d22-ecee-4cc2-9ad1-dec8b91499ca)
 
 ## Wyniki pierwszych testów:
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/8de875a79ec7cc433790e132e8ed80b9/image.png){width="399" height="252"}
+![image](https://github.com/user-attachments/assets/e1cf7129-b2fa-4cbc-b8c8-b6e1b399af65)
+
 
 **Romper:** Łatwo rozpoznać AI: bardzo szybko odpowiada, używa w pełni poprawnej gramatyki i interpunkcji, zadaje bardzo generyczne pytania, a podczas braku uzyskania odpowiedzi powtarza je w kółko w lekko zmienionej formie.
 
@@ -400,13 +401,17 @@ AI działa w oparciu o algorytmy zoptymalizowane pod kątem szybkości, poprawno
 5. **Unikać powtarzalności** – nie zadawać tych samych pytań wielokrotnie, zamiast tego próbować innych podejść.
 6. **Skrócić długość odpowiedzi** – ograniczyć długość wypowiedzi, aby bardziej przypominały realne, ludzkie rozmowy.
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/a8652f02cf6d501c715ea65d5caa3867/image.png){width="480" height="126"}
+![image](https://github.com/user-attachments/assets/43417163-a432-442e-9e2e-ae785dcbac77)
+
 
  Do odpowiedzi prócz losowego opóźnienia dodane jest opóźnienie generowane na podstawie ilości słów wygenerowanych przez model. Średni czas moich naturalnych odpowiedzi w trakcie rozmowy zajmuję \~10/15 sekund więc zaimplementowałem podobną zależność w naszej aplikacji.
 
-![image](uploads/9750a7e56478d0a70a0976708cb266ed/image.png)
-![image](uploads/d454eff9bd40de0dfebe07bdbb57a43e/image.png)
-![image](uploads/fb9f2518bf11674f8a683e24bae6c7a8/image.png)
+![image](https://github.com/user-attachments/assets/82b563bd-df4f-4704-913c-bb3078d8984d)
+
+![image](https://github.com/user-attachments/assets/00773bc4-c154-4c61-9ad1-65bf93e381f0)
+
+![image](https://github.com/user-attachments/assets/4500cd69-5a3b-41a3-8a31-8f3cf6b0c9ef)
+
 
 ### Usprawnienia wprowadzone w działanie
 
@@ -442,7 +447,8 @@ Po Nowym Roku usługa AI, którą wykorzystywaliśmy, stała się droższa i mni
 
 ### Wykorzystywany przez nas prompt
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/2323a292f7979cd1fa5f9b92773b9c5a/image.png){width="1035" height="512"}
+![image](https://github.com/user-attachments/assets/d27966a5-3895-4ff0-808d-e8514ee50b2b)
+
 
 # Wynik Testu Turinga
 
@@ -535,7 +541,8 @@ Po Nowym Roku usługa AI, którą wykorzystywaliśmy, stała się droższa i mni
 * **ktoś:** troche nuda xd
 * **dsadas:** mi się tam pdooba
 
-![image](uploads/d2517a0b0cd3cd395334c7267375f779/image.png)
+![image](https://github.com/user-attachments/assets/9858d602-6e3f-4144-b816-7e0649251563)
+
 
 # Analiza Testu Turing'a
 
@@ -579,5 +586,6 @@ W przeprowadzonym teście wzięło udział 12 osób, z czego:
 
 # Test odbył się na platformie discord
 
-![image](https://gitlab.tele.agh.edu.pl/-/project/95/uploads/a5f7172ea65cdded96cf1d2e970b040e/image.png){width="195" height="225"}
+![image](https://github.com/user-attachments/assets/c343303b-5a82-452d-a0c7-4287c2099dd5)
+
 
